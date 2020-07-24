@@ -1,0 +1,14 @@
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\bin\Debug\testProjectBMS.exe.config
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\bin\Debug\testProjectBMS.exe
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\bin\Debug\testProjectBMS.pdb
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.Properties.Resources.resources
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.exe
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.pdb
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.Form2.resources
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.Values.resources
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\repos\testProjectBMS\testProjectBMS\obj\Debug\testProjectBMS.csproj.CopyComplete
